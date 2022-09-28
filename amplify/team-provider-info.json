@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-meru-dev-13209-authRole",
+      "UnauthRoleArn": "arn:aws:iam::295758170778:role/amplify-meru-dev-13209-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::295758170778:role/amplify-meru-dev-13209-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-meru-dev-13209-deployment",
+      "UnauthRoleName": "amplify-meru-dev-13209-unauthRole",
+      "StackName": "amplify-meru-dev-13209",
+      "StackId": "arn:aws:cloudformation:us-west-2:295758170778:stack/amplify-meru-dev-13209/0bb36d70-3f08-11ed-abd2-0639b0087811",
+      "AmplifyAppId": "d1sgd144zqh81z"
+    }
+  }
+}
