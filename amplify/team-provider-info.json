@@ -10,6 +10,11 @@
       "StackName": "amplify-meru-dev-13209",
       "StackId": "arn:aws:cloudformation:us-west-2:295758170778:stack/amplify-meru-dev-13209/0bb36d70-3f08-11ed-abd2-0639b0087811",
       "AmplifyAppId": "d1sgd144zqh81z"
+    },
+    "categories": {
+      "auth": {
+        "merudccffb20": {}
+      }
     }
   }
 }
