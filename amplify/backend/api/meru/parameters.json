@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "meru",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-09-28T23:20:41.720Z"
+}
